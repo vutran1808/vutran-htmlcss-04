@@ -1,0 +1,9 @@
+<svg width="54" height="55" viewBox="0 0 54 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow">
+<circle id="Ellipse 20" cx="27" cy="27.9985" r="26.25" stroke="#FFD1C4" stroke-width="1.5"/>
+<g id="ArrowRight">
+<path id="Vector" d="M33.875 27.9985H20.125" stroke="#FF5B2E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M25.75 22.3735L20.125 27.9985L25.75 33.6235" stroke="#FF5B2E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
